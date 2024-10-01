@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Marcello Maia</h1>
 <h3 align="center">Um Estudante da área de Dados.</h3>
 
-- 🔭 Atualmente estou praticando em um projeto **pipeline.**
-
 - 🌱Estou aprendendo **Python e Banco de Dados.**
 
 - 👯 Viso colaborar em um **estágio.**
