@@ -1,6 +1,6 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcellocmaia&show_icons=true&locale=en" alt="marcellocmaia" /></p>
+<p>&nbsp;<img height="185em" src="https://github-readme-stats.vercel.app/api?username=marcellocmaia&show_icons=true&locale=en" alt="marcellocmaia" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcellocmaia&show_icons=true&locale=en&layout=compact" alt="marcellocmaia" /></p>
+<p><img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcellocmaia&show_icons=true&locale=en&layout=compact" alt="marcellocmaia" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
