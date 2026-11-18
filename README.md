@@ -1,10 +1,12 @@
-# 👋 Olá, eu sou Marcello Maia!
+# 👨‍💻 Marcello Maia | Data Analyst & Data Engineering Enthusiast
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Analista+de+Dados+em+forma%C3%A7%C3%A3o;Transformando+dados+em+decis%C3%B5es;Python+%7C+SQL+%7C+Power+BI;Explorando+o+futuro+com+IA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Data+Analytics+%26+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Exploring+Data+Engineering;Turning+Data+Into+Insights" alt="Typing SVG" />
 
-**Tecnologia • Dados • Automação • Inteligência Artificial**
+**Data Analytics | Business Intelligence | Data Engineering**
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcelloCMaia)
 
@@ -12,38 +14,38 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 About Me
 
-Sou apaixonado por tecnologia e pelo potencial que os dados têm de transformar negócios e melhorar processos.
+Sou profissional da área de tecnologia, com experiência em **Análise de Dados**, atuando na transformação de dados em informações estratégicas para apoiar decisões e otimizar processos.
 
-Atualmente, estou direcionando meus estudos e projetos para a área de **Análise de Dados**, desenvolvendo habilidades em programação, banco de dados, visualização de informações e Business Intelligence.
+Minha trajetória profissional e meus estudos estão direcionados ao universo de dados, uma área pela qual tenho grande interesse e na qual busco evoluir constantemente.
 
-Gosto de explorar novas tecnologias, automatizar processos e transformar informações em soluções práticas.
+Atualmente, concentro meu desenvolvimento em duas áreas que se complementam:
 
-- 📊 Foco em Análise de Dados e Business Intelligence.
-- 🐍 Desenvolvimento e automação com Python.
-- 🗄️ Consultas, manipulação e análise de dados com SQL.
-- 📈 Construção de dashboards e indicadores.
-- 🤖 Interesse em Inteligência Artificial e automações inteligentes.
-- 💡 Sempre aprendendo, experimentando e construindo algo novo.
+- 📊 **Data Analytics:** análise exploratória, construção de dashboards, indicadores, Business Intelligence e geração de insights.
+- ⚙️ **Data Engineering:** pipelines de dados, processos ETL, integração, transformação e estruturação de dados.
+
+Acredito que bons insights começam com dados bem estruturados, processos eficientes e ferramentas utilizadas de maneira inteligente.
+
+Meu objetivo é desenvolver soluções que conectem engenharia, análise e inteligência de dados.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 💻 Tech Stack
 
 <div align="center">
 
-### Linguagens e Banco de Dados
+### Programming & Databases
 
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 
-### Business Intelligence e Análise de Dados
+### Data Analytics & Business Intelligence
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-### Ferramentas de Desenvolvimento
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -51,7 +53,42 @@ Gosto de explorar novas tecnologias, automatizar processos e transformar informa
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Areas of Interest
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Data Analytics
+
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence
+- KPI & Performance Analysis
+- SQL Analytics
+- Dashboard Development
+- Data-Driven Decision Making
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Data Engineering
+
+- ETL / ELT Processes
+- Data Pipelines
+- Data Integration
+- Data Transformation
+- Database Management
+- Data Quality
+- Data Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -63,7 +100,7 @@ Gosto de explorar novas tecnologias, automatizar processos e transformar informa
 
 ---
 
-## 📈 Atividade no GitHub
+## 📉 Contribution Activity
 
 <div align="center">
 
@@ -73,23 +110,25 @@ Gosto de explorar novas tecnologias, automatizar processos e transformar informa
 
 ---
 
-## 🎯 Atualmente explorando
+## 🚀 What I'm Currently Working On
 
-- Análise e visualização de dados.
-- Python aplicado à automação e análise de informações.
-- SQL e otimização de consultas.
-- Dashboards estratégicos com Power BI e Metabase.
-- Integração de ferramentas com Inteligência Artificial.
-- Desenvolvimento de soluções e projetos que resolvam problemas reais.
+- Developing data analysis projects using Python and SQL.
+- Improving database querying and data manipulation techniques.
+- Building interactive dashboards with Power BI and Metabase.
+- Exploring data engineering concepts and ETL/ELT architectures.
+- Studying automation and Artificial Intelligence applied to data workflows.
+- Building practical projects focused on real-world business problems.
 
 ---
 
 <div align="center">
 
-### 💜 "Transformando dados em conhecimento e ideias em soluções."
+### 💜 Turning raw data into valuable insights.
 
-**Obrigado pela visita! Fique à vontade para explorar meus repositórios.**
+**Data Analytics • Business Intelligence • Data Engineering**
 
-<img src="https://komarev.com/ghpvc/?username=MarcelloCMaia&color=8B5CF6&style=flat-square&label=VISUALIZAÇÕES+DO+PERFIL" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MarcelloCMaia&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS"/>
 
 </div>
